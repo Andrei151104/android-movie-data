@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>677.5</profit>
+        <movieGenre>Sci-Fi/Adventure</movieGenre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Cinema/Blu-ray</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Superbad</movieTitle>
+        <profit>169.9</profit>
+        <movieGenre>Comedy</movieGenre>
+        <releaseDate>2007-08-17</releaseDate>
+        <platform>Blu-ray/Netflix</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>The Social Network</movieTitle>
+        <profit>224.9</profit>
+        <movieGenre>Drama/Biography</movieGenre>
+        <releaseDate>2010-10-01</releaseDate>
+        <platform>Amazon Prime Video</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Toy Story 4</movieTitle>
+        <profit>1073.4</profit>
+        <movieGenre>Animation/Family</movieGenre>
+        <releaseDate>2019-06-21</releaseDate>
+        <platform>Disney+</platform>
+    </movie>
+</movies>
